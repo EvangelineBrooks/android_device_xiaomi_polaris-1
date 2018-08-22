@@ -1,3 +1,22 @@
+#---------------Outside Vendor----------------#
+#DRM
+lib/drm/libfwdlockengine.so
+
+#EGL
+lib/egl/libGLES_android.so	
+
+lib/mediacas/libclearkeycasplugin.so
+
+#ADSP
+lib/rfsa/adsp/ibapps_mem_heap.so
+lib/rfsa/adsp/libdspCV_skel.so
+lib/rfsa/adsp/libfastcvadsp.so
+lib/rfsa/adsp/libfastcvdsp_skel.so
+lib/rfsa/adsp/libqvr_adsp_driver_skel.so
+lib/rfsa/adsp/libscveBlobDescriptor_skel.so
+lib/rfsa/adsp/libscveT2T_skel.so
+
+
 
 #vendor
 vendor/bin/hw/android.hardware.audio@2.0-service
