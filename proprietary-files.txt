@@ -7,7 +7,7 @@ lib/egl/libGLES_android.so
 lib/mediacas/libclearkeycasplugin.so
 
 #ADSP
-lib/rfsa/adsp/ibapps_mem_heap.so
+lib/rfsa/adsp/libapps_mem_heap.so
 lib/rfsa/adsp/libdspCV_skel.so
 lib/rfsa/adsp/libfastcvadsp.so
 lib/rfsa/adsp/libfastcvdsp_skel.so
@@ -559,7 +559,7 @@ lib64/egl/libGLES_android.so
 lib64/mediacas/libclearkeycasplugin.so
 
 #ADSP
-lib64/rfsa/adsp/ibapps_mem_heap.so
+lib64/rfsa/adsp/libapps_mem_heap.so
 lib64/rfsa/adsp/libdspCV_skel.so
 lib64/rfsa/adsp/libfastcvadsp.so
 lib64/rfsa/adsp/libfastcvdsp_skel.so
@@ -2851,7 +2851,7 @@ vendor/lib64/vendor.xiaomi.hardware.citsensorservice@1.0.so
 vendor/lib64/vendor.xiaomi.hardware.displayfeature@1.0_vendor.so
 vendor/media/LMspeed_508.emd
 vendor/media/PFFprec_600.emd
-vendor/overlay/OptInAppOverlay/OptInAppOverlay.apk
+-vendor/overlay/OptInAppOverlay/OptInAppOverlay.apk
 vendor/package/CTA/vendor/vendor.prop
 vendor/package/CTA/.preloadspec
 vendor/radio/qcril_database/qcril.db
