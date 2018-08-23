@@ -1113,6 +1113,19 @@ lib/vendor.xiaomi.hardware.vsimapp@1.0.so
 
 
 #vendor
+-vendor/app/CABLService/CABLService.apk
+-vendor/app/Cit/Cit.apk
+-vendor/app/ConnectionSecurityService/ConnectionSecurityService.apk
+-vendor/app/FingerprintExtensionService/FingerprintExtensionService.apk
+-vendor/app/NQNfcNci/NQNfcNci.apk
+-vendor/app/PowerOffAlarm/PowerOffAlarm.apk
+-vendor/app/Qmmi/Qmmi.apk
+-vendor/app/SSGTelemetryService/SSGTelemetryService.apk
+-vendor/app/SVIService/SVIService.apk
+-vendor/app/SecProtect/SecProtect.apk
+-vendor/app/SmartcardService/SmartcardService.apk
+-vendor/app/TimeService/TimeService.apk
+-vendor/app/colorservice/colorservice.apk
 vendor/bin/hw/android.hardware.audio@2.0-service
 vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
