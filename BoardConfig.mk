@@ -27,7 +27,6 @@ TARGET_KERNEL_CONFIG := polaris_user_defconfig
 #BOARD_DTBOIMG_PARTITION_SIZE := 8388608
 
 BOARD_CUSTOM_BOOTIMG_MK := $(DEVICE_PATH)/mkbootimg.mk
-TARGET_PREBUILT_KERNEL := vendor/xiaomi/polaris/zImage
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/polaris/BoardConfigVendor.mk
