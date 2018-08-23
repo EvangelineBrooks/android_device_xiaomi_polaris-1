@@ -3,13 +3,11 @@
 #64 bits
 
 #---------------Outside Vendor----------------#
-lib64/
 #DRM
 lib64/drm/libfwdlockengine.so
 
 #EGL
 lib64/egl/libGLES_android.so	
-
 lib64/mediacas/libclearkeycasplugin.so
 
 #ADSP
